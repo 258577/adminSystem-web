@@ -87,10 +87,9 @@ npm run preview
 ## 预览截图
 
 ### 首页
+<img width="1910" height="925" alt="e2dda453-5e3e-47ab-942e-2329db3fd5a6" src="https://github.com/user-attachments/assets/5eb37682-804c-42ea-a508-679d86b25ba6" />
 
 ### 用户管理
-
-
-### 商品管理
+<img width="1910" height="925" alt="ebb6c3a8-c6e4-4e06-8f2b-255a126242d9" src="https://github.com/user-attachments/assets/4532d247-877a-4042-b9ca-7b36d13e0f8f" />
 
 
