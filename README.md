@@ -7,6 +7,7 @@
 - **Element Plus**：基于 Vue 3 的桌面端组件库
 - **Vue Router**：Vue.js 官方路由管理器
 - **Pinia**：Vue 3 官方状态管理库
+- **ECharts**：数据可视化图表库
 - **Less**：CSS 预处理器
 - **Mock.js**：前端数据模拟库
 - **Axios**：HTTP 客户端
